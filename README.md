@@ -2,4 +2,4 @@
 
 This project objective is to use 2021 league of legends wolrd champion play records to analysis what factors effects winning-losing
 
-with regression and classification forest
+with logistic regression and classification forest
